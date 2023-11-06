@@ -6,7 +6,7 @@
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
-  "editor.minimap.enabled": false, 
+  "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "files.autoSave": "off",
@@ -16,8 +16,8 @@
 
   // workbench
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "vs-seti",
-  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Omni",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
